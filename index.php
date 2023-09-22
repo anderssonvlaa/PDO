@@ -1,5 +1,5 @@
 <?php
-include_once('./conf/con.php');
+include_once('./conf/conex.php');
 
 try {
     // Preparar la consulta
